@@ -1,107 +1,90 @@
 Mongolian phonetic keyboard layout for OSX
 ==========================================
 
-Cloned from https://github.com/amgaa/mongolian-phonetic
-`Generated with new Ukelele and fixed and improved combinations`
-
+https://github.com/amgaa/mongolian-phonetic -с хуулав
+`Ukelele-г шинэчилж, алдаатай хэсгүүдийг засаж илүү сайжруулав`
 
 Яг Латин үсгээр бичиж байгаа юм шиг криллээр бичих OSX-д зориулсан
-Mongolian keyboard layout with
 keyboard layout.
 
-Example:
+Жишээ нь:
 “Minii Mongol hel soyol”
-is typed
+гэж бичихэд
 “Миний Монгол хэл соёл”
-will be written.
+гэж бичигдэх юм.
 
-Standard Mongolian keyboard layout is very hard to memorize and it get rid of necessity of letter stickers of keyboard.
+Шинээр товчлуурын байршил цээжлэх, keyboard дээрээ крилл үсгийн хуулга нэмж наах хэрэг огт байхгүй.
 
 Дэлгэрэнгүй:
-When you type letters on the left side of list below, letters on the right side will be generated.
+Доорх жагсаалтын зүүн талд байгаа крилл үсгүүдийг бичихийн тулд баруун талд байгаа латин товчуудыг дарахад хангалттай.
 
-a | а
---- | ---
-ai | ай
+a | a
 --- | ---
 b | б
 --- | ---
-c | ц
+в | v
 --- | ---
-ch | ч
+г | g
 --- | ---
-d | д
+д | d
 --- | ---
-e | э
+е | ye
 --- | ---
-ei | эй
+ё | yo
 --- | ---
-f | ф
+ж | j
 --- | ---
-g | г
+з | z
 --- | ---
-h | х
+и | i
 --- | ---
-i | и
+й | a,e,i,o,q,u,w-н араас орох i
 --- | ---
-j | ж
+к | k
 --- | ---
-k | к
+л | l
 --- | ---
-l | л
+м | m
 --- | ---
-m | м
+н | n
 --- | ---
-n | н
+о | o
 --- | ---
-o | о
+ө | q
 --- | ---
-oi | ой
+п | p
 --- | ---
-p | п
+р | r
 --- | ---
-q | ө
+с | s
 --- | ---
-qi | өй
+т | t
 --- | ---
-r | р
+у | u
 --- | ---
-s | с
+ү | w
 --- | ---
-sh | ш
+ф | f
 --- | ---
-t | т
+х | h эсвэл x
 --- | ---
-ts | ц
+ц | c эсвэл ts
 --- | ---
-u | у
+ч | ch
 --- | ---
-ui | уй
+ш | sh
 --- | ---
-v | в
---- | ---
-w | ү
---- | ---
-wi | үй
---- | ---
-x | х
+ъ | ::
 --- | ---
 y | ы
 --- | ---
-ya | я
+ь | ;;
 --- | ---
-ye | е
+e | э
 --- | ---
-yo | ё
+ю | yu
 --- | ---
-yu | ю
---- | ---
-z | з
---- | ---
-;; | ь
---- | ---
-:: | ъ
-```
+я | ya
 
 Суулгахдаа:
 
