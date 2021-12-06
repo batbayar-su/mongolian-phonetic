@@ -1,11 +1,9 @@
-Mongolian phonetic keyboard layout for OSX
+OSX-д зориулсан Монгол фонетик гарын байрлал
 ==========================================
 
-https://github.com/amgaa/mongolian-phonetic -с хуулав
-`Ukelele-г шинэчилж, алдаатай хэсгүүдийг засаж илүү сайжруулав`
+https://github.com/amgaa/mongolian-phonetic -с хуулав `Ukelele-г шинэчилж, алдаатай хэсгүүдийг засаж илүү сайжруулав`
 
-Яг Латин үсгээр бичиж байгаа юм шиг криллээр бичих OSX-д зориулсан
-keyboard layout.
+Монгол үсгийг ойролцоо англи үсэгтэй байрлуулсан phonetic гарын байрлал.
 
 Жишээ нь:
 “Minii Mongol hel soyol”
@@ -18,79 +16,46 @@ keyboard layout.
 Дэлгэрэнгүй:
 Доорх жагсаалтын зүүн талд байгаа крилл үсгүүдийг бичихийн тулд баруун талд байгаа латин товчуудыг дарахад хангалттай.
 
+| | |
+--- | ---
 a | a
---- | ---
 b | б
---- | ---
 в | v
---- | ---
 г | g
---- | ---
 д | d
---- | ---
 е | ye
---- | ---
 ё | yo
---- | ---
 ж | j
---- | ---
 з | z
---- | ---
 и | i
---- | ---
 й | a,e,i,o,q,u,w-н араас орох i
---- | ---
 к | k
---- | ---
 л | l
---- | ---
 м | m
---- | ---
 н | n
---- | ---
 о | o
---- | ---
 ө | q
---- | ---
 п | p
---- | ---
 р | r
---- | ---
 с | s
---- | ---
 т | t
---- | ---
 у | u
---- | ---
 ү | w
---- | ---
 ф | f
---- | ---
 х | h эсвэл x
---- | ---
 ц | c эсвэл ts
---- | ---
 ч | ch
---- | ---
 ш | sh
---- | ---
 ъ | ::
---- | ---
 y | ы
---- | ---
 ь | ;;
---- | ---
 e | э
---- | ---
 ю | yu
---- | ---
 я | ya
 
 Суулгахдаа:
 
-1. Доорх 2 аргаас нэгийг нь сонгож суулгана.
-    - `chmod u+x install.sh && ./install.sh` гэсэн команд ажиллуулах
-    - Mongolian-phonetic.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
-2. System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.
+1. Terminal апп-аа нээгээд `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash` комманд ажлуулна.
+2. System Preferences -> Keyboard -> Input Sources -> press + гэж ороод. "Mongolian Phonetic"-г хайж нэмнэ.
 
 Voila!
