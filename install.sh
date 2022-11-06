@@ -20,5 +20,6 @@ cp mongolian-phonetic-1.0/Mongolian\ Phonetic.* ~/Library/Keyboard\ Layouts
 rm -Rf mongolian-phonetic-1.0
 
 echo 'Finished.'
-echo 'Go to System Preferences -> Keyboard -> Input Sources -> press +'
+echo 'Ventura: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button'
+echo 'Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button'
 echo 'Search "Mongolian phonetic" and press add'
