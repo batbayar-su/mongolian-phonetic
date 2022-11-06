@@ -1,4 +1,4 @@
-Mongolian phonetic keyboard layout for OSX
+Mongolian phonetic keyboard layout for MacOS
 ==========================================
 
 Cloned from https://github.com/amgaa/mongolian-phonetic. `Generated with new Ukelele and fixed and improved combinations`
