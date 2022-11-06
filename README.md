@@ -62,7 +62,12 @@ z | з
 
 Installation guide:
 
-1. Open terminal app and run `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash`
-2. Go to System Preferences -> Keyboard -> Input Sources -> press +. Search "Mongolian phonetic" and press add.
+1: Open terminal app and run `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash`
+
+2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button. 
+
+2b: Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button.
+
+3: Search "Mongolian phonetic" and press add. 
 
 Voila!
