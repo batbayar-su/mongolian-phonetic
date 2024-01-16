@@ -13,7 +13,6 @@ will be written.
 
 Standard Mongolian keyboard layout is very hard to memorize and it get rid of necessity of letter stickers of keyboard.
 
-Дэлгэрэнгүй:
 When you type letters on the left side of list below, letters on the right side will be generated.
 
 | | |
