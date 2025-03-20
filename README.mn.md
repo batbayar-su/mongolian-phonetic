@@ -1,17 +1,22 @@
-OSX-д зориулсан Монгол фонетик гарын байрлал
-==========================================
+# OSX-д зориулсан Монгол фонетик гарын байрлал
 
-https://github.com/amgaa/mongolian-phonetic -с хуулав `Ukelele-г шинэчилж, алдаатай хэсгүүдийг засаж илүү сайжруулав`
+## Суулгах
+
+1. Terminal апп-аа нээгээд `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash` комманд ажлуулна.
+
+2. Apple-н логоны цэснээс System Settings-г нээгээд Keyboard -> Input Sources -> press + гэж ороод. "Mongolian Phonetic"-г хайж нэмнэ.
+
+## Тухай
 
 Монгол үсгийг ойролцоо англи үсэгтэй байрлуулсан phonetic гарын байрлал.
 
 Жишээ нь:
 “Minii Mongol hel soyol”
-гэж бичихэд
+гэж keyboard дээрээ дархад
 “Миний Монгол хэл соёл”
 гэж бичигдэх юм.
 
-Шинээр товчлуурын байршил цээжлэх, keyboard дээрээ крилл үсгийн хуулга нэмж наах хэрэг огт байхгүй.
+Шинээр товчлуурын байршил цээжлэх, keyboard дээрээ крилл үсгийн хуулга нэмж наах хэрэггүй.
 
 Дэлгэрэнгүй:
 Доорх жагсаалтын зүүн талд байгаа крилл үсгүүдийг бичихийн тулд баруун талд байгаа латин товчуудыг дарахад хангалттай.
@@ -52,10 +57,3 @@ y | ы
 e | э
 ю | yu
 я | ya
-
-Суулгахдаа:
-
-1. Terminal апп-аа нээгээд `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash` комманд ажлуулна.
-2. System Preferences -> Keyboard -> Input Sources -> press + гэж ороод. "Mongolian Phonetic"-г хайж нэмнэ.
-
-Voila!
