@@ -3,9 +3,9 @@
 ## Install
 1: Open terminal app and run `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash`
 
-2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button. 
+2: Go to Apple Logo > System Settings > Keyboard > Input Sources > press edit button > press + button. 
 
-2b: Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button.
+3: Search "Mongolian phonetic" and press add. 
 
 ## About
 
@@ -66,7 +66,3 @@ yu | ю
 z | з
 ;; | ь
 :: | ъ
-
-3: Search "Mongolian phonetic" and press add. 
-
-Voila!
