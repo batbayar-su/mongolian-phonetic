@@ -1,7 +1,15 @@
-Mongolian phonetic keyboard layout for MacOS
-==========================================
+# Mongolian phonetic keyboard layout for MacOS
 
-Cloned from https://github.com/amgaa/mongolian-phonetic. `Generated with new Ukelele and fixed and improved combinations`
+## Install
+1: Open terminal app and run `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash`
+
+2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button. 
+
+2b: Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button.
+
+## About
+
+`Generated with new Ukelele and fixed and improved combinations`
 
 Phonetic keyboard layout which mapping closest Mongolian letters with English letters.
 
@@ -58,14 +66,6 @@ yu | ю
 z | з
 ;; | ь
 :: | ъ
-
-Installation guide:
-
-1: Open terminal app and run `curl -o- https://raw.githubusercontent.com/batbayar-su/mongolian-phonetic/master/install.sh | bash`
-
-2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button. 
-
-2b: Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button.
 
 3: Search "Mongolian phonetic" and press add. 
 
