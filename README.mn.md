@@ -6,6 +6,8 @@
 
 2. Apple-н логоны цэснээс System Settings-г нээгээд Keyboard -> Input Sources -> press + гэж ороод. "Mongolian Phonetic"-г хайж нэмнэ.
 
+3: "Mongolian phonetic" гэж хайгаад add товчыг дарна.
+
 ## Тухай
 
 Монгол үсгийг ойролцоо англи үсэгтэй байрлуулсан phonetic гарын байрлал.
